@@ -7,8 +7,8 @@ Respectful Online Communities  Identifying offensive language online is crucial 
 This repository explores the exciting potential of transformer models in identifying offensive language within the OLID dataset. ⚡️ By attempting this project with OLID dataset, I am trying to increase my understanding on the NLP transformer models.
 
 **The code contains the below steps**
-        Data extraction and Loading
-        Exploratory Data Analysis
-        Data Preprocessing
-        Model and DataLoader Configurations
-        Training and Validation
+1. Data extraction and Loading
+2. Exploratory Data Analysis
+3. Data Preprocessing
+4. Model and DataLoader Configurations
+5. Training and Validation
