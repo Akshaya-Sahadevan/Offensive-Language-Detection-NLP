@@ -1,4 +1,4 @@
-**Offensive Language Identification with Transformers on OLID Dataset**
+***Offensive Language Identification with Transformers on OLID Dataset***
 
 Transformer Power! ✨ These revolutionary NLP models ditch sequential processing, analyzing entire sentences at once with their "attention" superpower. This lets them capture deeper word relationships, leading to record-breaking performance in tasks like translation and sentiment analysis. Imagine them as conductors for language, focusing on the most important parts to grasp the meaning in full.
 **Why choose this project?** 😃
