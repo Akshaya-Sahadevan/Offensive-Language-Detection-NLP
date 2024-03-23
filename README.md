@@ -5,3 +5,10 @@ Transformer Power! ✨ These revolutionary NLP models ditch sequential processin
 Respectful Online Communities  Identifying offensive language online is crucial to fostering positive interactions and protecting users from harmful content. The OLID (Offensive language Identification Dataset) dataset is a key resource for training and evaluating models that tackle this challenge. Widely used as a benchmark, it allows researchers to compare the effectiveness of different NLP approaches. The dataset is by "OffensEval is a series of shared tasks on offensive language identification organized at the International Workshop on Semantic Evaluation (SemEval)"
 
 This repository explores the exciting potential of transformer models in identifying offensive language within the OLID dataset. ⚡️ By attempting this project with OLID dataset, I am trying to increase my understanding on the NLP transformer models.
+
+**The code contains the below steps**
+        Data extraction and Loading
+        Exploratory Data Analysis
+        Data Preprocessing
+        Model and DataLoader Configurations
+        Training and Validation
